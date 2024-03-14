@@ -1,5 +1,4 @@
-<h1 align='center'><a href='https://discord.link/bixbi'>Discord</a></h1>
-<p align='center'><a href='https://forum.cfx.re/u/Leah_UK/summary'>FiveM Profile</a> | <a href='https://ko-fi.com/bixbi'>Support Me Here</a><br></p>
+<h1 align='center'><a href='[https://discord.link/bixbi](https://discord.gg/V7TkQTPbhZ)'>Discord</a></h1>
 
 ---
 
