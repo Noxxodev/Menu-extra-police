@@ -6,8 +6,6 @@
 
 Script pour modifier les extra sur les véhicule police.
 
-<h3 align='center'><b><a href='https://youtu.be/sLQaIRR7lX0'>Demonstration Video</a></b></h3>
-
 ---
 
 <h2 align='center'>Requirements</h2>
