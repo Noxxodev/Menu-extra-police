@@ -10,5 +10,5 @@ Script pour modifier les extra sur les véhicule police.
 
 <h2 align='center'>Requirements</h2>
 
-- <a href='https://github.com/overextended'>OX_lib
+- <a href='https://github.com/overextended/ox_lib'>OX_lib
 
