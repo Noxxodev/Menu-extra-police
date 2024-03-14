@@ -1,4 +1,4 @@
-<h1 align='center'><a href='[https://discord.link/bixbi](https://discord.gg/V7TkQTPbhZ)'>Discord</a></h1>
+<h1 align='center'><a href='https://discord.gg/V7TkQTPbhZ'>Discord</a></h1>
 
 ---
 
